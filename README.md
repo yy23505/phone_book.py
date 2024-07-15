@@ -1,3 +1,14 @@
+Overview and Purpose
+This phone book application provides a simple and efficient tool to manage a list of contacts. Users can add, delete, sort, and search for contacts using various criteria. The application illustrates basic data structure and Python algorithmic principles in a real-world setting, making it a useful tool for personal and professional use.
+
+Target Audience
+Users who need to manage contacts
+Businesses
+Anyone who wants to store and retrieve contact information easily
+
+## Installation
+Using Jupyter Notebook to write and run python scripts, will need to download the latest version of Anaconda from the Anaconda download page https://www.anaconda.com/download. Once downloaded, 'Jupyter Notebook' can be launched  by selecting the tab in the Home section in Anaconda Navigator.
+
 # phone_book.py
 When creating a new Phonebook object, it will have an empty dictionary called contacts that will store the phonebook's contacts.
 
